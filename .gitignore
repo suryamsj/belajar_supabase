@@ -1,0 +1,14 @@
+#vendor
+node_modules
+.routify
+.history
+dist
+
+# code editor
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+
+# environment
+.env
